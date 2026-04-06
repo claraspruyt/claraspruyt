@@ -1,6 +1,6 @@
 # Hi there, I'm Clara! 👋
 
-Welcome to my profile! I'm a **Researcher/Data analyst** from Belgium with experience in **R, Python and PowerBI**. I love tackling complex problems and learning new skills. On the side, I'm exploring how AI and automation can make research workflows smarter.
+Welcome to my profile! I'm a **Researcher softfruit and Data analyst** from Belgium. Learning Python, SQL. On the side, I'm exploring how AI and automation can make research workflows smarter.
 
 
 ## My Skills 
